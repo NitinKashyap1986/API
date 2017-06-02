@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3942" started-at="2017-06-02T06:47:32Z" finished-at="2017-06-02T06:47:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3942" started-at="2017-06-02T06:47:32Z" finished-at="2017-06-02T06:47:36Z">
+      <class name="EPAM.APITEST.FunctionalTests">
+        <test-method status="PASS" signature="TC_1()[pri:1, instance:EPAM.APITEST.FunctionalTests@d2cc05a]" name="TC_1" duration-ms="1179" started-at="2017-06-01T23:47:32Z" finished-at="2017-06-01T23:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_1 -->
+        <test-method status="PASS" signature="TC_2()[pri:1, instance:EPAM.APITEST.FunctionalTests@d2cc05a]" name="TC_2" duration-ms="361" started-at="2017-06-01T23:47:33Z" finished-at="2017-06-01T23:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_2 -->
+        <test-method status="PASS" signature="TC_3()[pri:1, instance:EPAM.APITEST.FunctionalTests@d2cc05a]" name="TC_3" duration-ms="540" started-at="2017-06-01T23:47:33Z" finished-at="2017-06-01T23:47:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_3 -->
+        <test-method status="PASS" signature="TC_4()[pri:1, instance:EPAM.APITEST.FunctionalTests@d2cc05a]" name="TC_4" duration-ms="337" started-at="2017-06-01T23:47:34Z" finished-at="2017-06-01T23:47:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_4 -->
+        <test-method status="PASS" signature="TC_5()[pri:2, instance:EPAM.APITEST.FunctionalTests@d2cc05a]" name="TC_5" duration-ms="608" started-at="2017-06-01T23:47:34Z" finished-at="2017-06-01T23:47:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_5 -->
+        <test-method status="PASS" signature="TC_6()[pri:2, instance:EPAM.APITEST.FunctionalTests@d2cc05a]" name="TC_6" duration-ms="635" started-at="2017-06-01T23:47:35Z" finished-at="2017-06-01T23:47:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_6 -->
+        <test-method status="PASS" signature="TC_7()[pri:3, instance:EPAM.APITEST.FunctionalTests@d2cc05a]" name="TC_7" duration-ms="259" started-at="2017-06-01T23:47:35Z" finished-at="2017-06-01T23:47:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_7 -->
+      </class> <!-- EPAM.APITEST.FunctionalTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
